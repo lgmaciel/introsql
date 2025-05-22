@@ -4,6 +4,7 @@ Donwloads
 - [SQLite3](lgmaciel.github.io/introsql/downloads/sqlite3.exe) - windows
 - [chinook.db](lgmaciel.github.io/introsql/downloads/chinook.db) - banco de dados para exemplos
 
+Aulas
 - [SQLite - Apresentação](SQLITE-apresentacao.md)
 - [SQLite - Comandos](SQLITE-comandos.md)
 - [SQL - Consultas 01](SQL-SELECT-01.md)
