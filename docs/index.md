@@ -1,8 +1,8 @@
 # Introdução à SQL com SQLite
 
 Donwloads
-[SQLite3](lgmaciel.github.io/introsql/downloads/sqlite3.exe) - windows
-[chinook.db](lgmaciel.github.io/introsql/downloads/chinook.db) - banco de dados para exemplos
+- [SQLite3](lgmaciel.github.io/introsql/downloads/sqlite3.exe) - windows
+- [chinook.db](lgmaciel.github.io/introsql/downloads/chinook.db) - banco de dados para exemplos
 
 - [SQLite - Apresentação](SQLITE-apresentacao.md)
 - [SQLite - Comandos](SQLITE-comandos.md)
